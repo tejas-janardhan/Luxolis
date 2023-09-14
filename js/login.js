@@ -24,7 +24,6 @@ function passwordInputHandler(event) {
 function main() {
   const passwordElement = document.getElementById("password");
   const usernameElement = document.getElementById("username");
-
   const loginElement = document.getElementById("login-button");
 
   passwordElement.addEventListener("input", passwordInputHandler);
