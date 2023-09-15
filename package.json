@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^4.23.2"
+    "@fastify/static": "^6.11.1",
+    "fastify": "^4.23.2",
+    "path": "^0.12.7"
   }
 }

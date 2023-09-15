@@ -84,3 +84,15 @@ body {
   float: right;
   margin-top: 10px;
 }
+
+.hidden {
+  display: none;
+}
+
+.password-error {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 10px;
+  color: lightcoral;
+}
